@@ -11,7 +11,7 @@ public class DCon {
         this();
         this.a = a;
     }
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         DCon L1 = new DCon();
         DCon L2 = new DCon();
         DCon L3 = new DCon();
